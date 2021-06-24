@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(0, 0, 0, 0.63);
+    color: white;
+}
+
+div {
+    margin-bottom: 10px;
+}
+.blue {
+margin-top: 10px;
+background-color: blue;
+border: blue solid;
+border-width: 20px;
+margin-right: 1700px;
+}
+.green {
+background-color: green;
+border: green solid;
+border-width: 20px;
+margin-right: 1700px;
+}
+.red{
+background-color: red;
+border: red solid;
+border-width: 20px;
+margin-right: 1700px;
+}
